@@ -12,14 +12,17 @@ I want to become a **Frontend Developer**
 - HTML
 - CSS
 - Figma(for web development)
+
 # Code examples
 ```javascript
     function multiply(a, b) { 
   return a * b
 } ​
 ```
+
 # Work experience
 Missed...
+
 # Languages
 - Russian - native speaker
 - English - A2
